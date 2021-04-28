@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Chris, a software developer. I love developing fullstack web apps in JS, and occasionally dabbling with game dev in Unity C# or Lua.
+
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on improving my CSS skills, exploring Redux Toolkit and GraphQL.
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/chris-lynch-39925a133)
+  - email: cjlynch1710@gmail.com
+
 <!--
 **sirchras/sirchras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
